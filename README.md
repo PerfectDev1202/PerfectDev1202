@@ -2,8 +2,7 @@
 
   
 ### About Me:    
-I'm Google Sr. Software Engineer and I Love Open Source and Communication.
-
+I'm full stack developer. I'm good at python, node, C# and C++.
 Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. I love exploring new technologies and contributing to impactful projects.
 
 ## 🚀 About Me
@@ -13,7 +12,7 @@ Expert in delivering innovative solutions and integrating advanced AI technologi
 💬Web App Dev
 - ✔ **UI/UX Design Principles**
 - ✔ **Front-end Development:** Next.js, React.js , Angular.js, Vue.js, Javascript(ES+6), TypeScript, HTML5, CSS3.
-- ✔ **Back-end Development**: Express.js, PHP, Laravel, FastAPI, Django, Flask
+- ✔ **Back-end Development**: Django, Flask, FastAPI, Express, .NET,
 
 💬Mobile App Dev
 - ✔ **Development**: Flutter, FlutterFlow, Ionic Framework, Android, React Native, Android
@@ -21,11 +20,12 @@ Expert in delivering innovative solutions and integrating advanced AI technologi
 💬The Others Dev
 - ✔ **Automation**: Zapier.com, Make.com, ComoCRM
 - ✔ **API Technology**: Restful API, Socket API, GraphQL
-- ✔ **AI Integration**: AI Chatbot, GPT, Generative AI Art, DALL-E, RAG System.
+- ✔ **AI Integration**: AI Chatbot, GPT, Generative AI Art, DALL-E, RAG System, ML.
 - ✔ **Database Management**: MySQL, MongoDB, PostgreSQL, OracleDB, MariaDB, Firebase
 - ✔ **Version Control**: Git, GitHub, GitLab, SVN
 - ✔ **Deployment and Cloud Technologies**: AWS, GCP, Azure, Heroku
 - ✔ **Testing and Debugging**: Jest, Mocha, Chai, Postman
+- ✔ **C,C++**: Reverse ENgineering
 
 ### Best frameworks and main libraries for Python3:
 
