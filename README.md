@@ -25,7 +25,7 @@ Expert in delivering innovative solutions and integrating advanced AI technologi
 - ✔ **Version Control**: Git, GitHub, GitLab, SVN
 - ✔ **Deployment and Cloud Technologies**: AWS, GCP, Azure, Heroku
 - ✔ **Testing and Debugging**: Jest, Mocha, Chai, Postman
-- ✔ **C,C++**: Reverse ENgineering
+- ✔ **C,C++**: Reverse Engineering
 
 ### Best frameworks and main libraries for Python3:
 
