@@ -13,14 +13,11 @@ Expert in delivering innovative solutions and integrating advanced AI technologi
 - ✔ **UI/UX Design Principles**
 - ✔ **Front-end Development:** Next.js, React.js , Angular.js, Vue.js, Javascript(ES+6), TypeScript, HTML5, CSS3.
 - ✔ **Back-end Development**: Django, Flask, FastAPI, Express, .NET,
-
-💬Mobile App Dev
-- ✔ **Development**: Flutter, FlutterFlow, Ionic Framework, Android, React Native, Android
+- ✔ **AI Integration**: AI Chatbot, GPT, Generative AI Art, LLM, CNN, OPENAI, ML.
 
 💬The Others Dev
 - ✔ **Automation**: Zapier.com, Make.com, ComoCRM
 - ✔ **API Technology**: Restful API, Socket API, GraphQL
-- ✔ **AI Integration**: AI Chatbot, GPT, Generative AI Art, DALL-E, RAG System, ML.
 - ✔ **Database Management**: MySQL, MongoDB, PostgreSQL, OracleDB, MariaDB, Firebase
 - ✔ **Version Control**: Git, GitHub, GitLab, SVN
 - ✔ **Deployment and Cloud Technologies**: AWS, GCP, Azure, Heroku
