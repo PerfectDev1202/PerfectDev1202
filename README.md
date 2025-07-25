@@ -24,13 +24,6 @@ Expert in delivering innovative solutions and integrating advanced AI technologi
 - ✔ **Testing and Debugging**: Jest, Mocha, Chai, Postman
 - ✔ **C,C++**: Reverse Engineering
 
-### Best frameworks and main libraries for Python3:
-
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV | PyMC |
-|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|  | <img                                                                               src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
-
-
 <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
