@@ -1,10 +1,10 @@
-# Hello! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+py# Hello! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
   
 ### About Me:    
 I'm full stack developer. I'm good at python, node, C# and C++.
 Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. I love exploring new technologies and contributing to impactful projects.
-This is my portfolio. https://py1202.vercel.app
+This is my portfolio. https://py1202.vercel.app](https://py1202-portfolio.netlify.app/
 
 ## 🚀 About Me
 
